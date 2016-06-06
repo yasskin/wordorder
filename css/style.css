@@ -1,11 +1,7 @@
-#grocerylist {
-  display:block;
+button {
+  margin: 20px;
 }
 
-#outputlist {
-  display:none;
-}
-
-#wordplayoutput {
-  display: none;
+label {
+  margin-bottom: 20px;
 }
