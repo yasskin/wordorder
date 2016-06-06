@@ -1,0 +1,11 @@
+#grocerylist {
+  display:block;
+}
+
+#outputlist {
+  display:none;
+}
+
+#wordplayoutput {
+  display: none;
+}
